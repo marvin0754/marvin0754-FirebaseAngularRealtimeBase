@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "dist",
+    "site":"angularrealtime-1e613",
+    "public": "dist/firebase-realtime-angular",
     "ignore": [
       "firebase.json",
       "**/.*",

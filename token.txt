@@ -1,1 +1,2 @@
-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
+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
+git remote add origin https://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@github.com/marvin0754/marvin0754-FirebaseAngularRealtimeBase.git
