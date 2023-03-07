@@ -1,0 +1,25 @@
+[debug] [2023-03-07T22:19:49.126Z] ----------------------------------------------------------------------
+[debug] [2023-03-07T22:19:49.129Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USUARIO\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-03-07T22:19:49.129Z] CLI Version:   11.24.0
+[debug] [2023-03-07T22:19:49.129Z] Platform:      win32
+[debug] [2023-03-07T22:19:49.130Z] Node Version:  v18.13.0
+[debug] [2023-03-07T22:19:49.131Z] Time:          Tue Mar 07 2023 17:19:49 GMT-0500 (hora estándar de Perú)
+[debug] [2023-03-07T22:19:49.131Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-07T22:19:49.141Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-07T22:19:49.141Z] > authorizing via signed-in user (stormamcv0754@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\wamp64\www\Curso de Js\Master\Angular\firebaseRealtimeAngular\src
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
